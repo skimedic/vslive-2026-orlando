@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="DAL_Lab5.txt" />
+  </Folder>
+  <Folder Name="/Solution Items/Prompts/" />
+  <Folder Name="/Solution Items/Prompts/EFCore/">
+    <File Path="Prompts/B_EFCore/Lab_EF02_A.md" />
+    <File Path="Prompts/B_EFCore/Lab_EF02_B.md" />
+    <File Path="Prompts/B_EFCore/Lab_EF03.md" />
+    <File Path="Prompts/B_EFCore/Lab_EF04.md" />
+  </Folder>
+  <Project Path="AutoLot.Dal.Tests/AutoLot.Dal.Tests.csproj" />
+  <Project Path="AutoLot.Dal/AutoLot.Dal.csproj" />
+  <Project Path="AutoLot.Models/AutoLot.Models.csproj" />
+  <Project Path="AutoLot.Services/AutoLot.Services.csproj" />
+</Solution>
